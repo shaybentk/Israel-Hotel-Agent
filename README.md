@@ -23,9 +23,14 @@ I am looking to book a hotel in Israel for a family trip.
 - If possible, add 5 more recommended hotels in Tel Aviv with the same detailed breakdown
 - Ensure all information is based on current availability and real guest reviews
 
+#
 
 Tips for Best Results
+
 Always specify dates, guest ages, and board type
+
 List all must-have family and kosher requirements
+
 Ask for room type and price breakdowns in follow-up prompts
+
 Request real guest review validation for all recommendations
